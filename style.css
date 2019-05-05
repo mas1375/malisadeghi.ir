@@ -82,7 +82,7 @@ body {
 		color: white;
 		font-size: 1.5em;
 		display: block;
-		background-color: cornflowerblue;
+		background-color: #25D366;
 		padding: 10px;
 		margin-left: 7%;
 		margin-right: 7%;
@@ -150,7 +150,7 @@ body {
 		color: white;
 		font-size: 0.8em;
 		display: block;
-		background-color: cornflowerblue;
+		background-color: #25D366;
 		padding: 10px;
 		margin-left: 7%;
 		margin-right: 7%;
@@ -218,7 +218,7 @@ body {
 		color: white;
 		font-size: 1.5em;
 		display: block;
-		background-color: cornflowerblue;
+		background-color: #25D366;
 		padding: 10px;
 		margin-left: 7%;
 		margin-right: 7%;
@@ -284,7 +284,7 @@ body {
 		color: white;
 		font-size: 1.8em;
 		display: block;
-		background-color: cornflowerblue;
+		background-color: #25D366;
 		padding: 10px;
 		margin-left: 7%;
 		margin-right: 7%;
@@ -299,8 +299,8 @@ body {
 /*---------- ICONS ---------------*/
 
 .fa-stack:hover {
-	transition: 0.9s;
-	transform: rotate(360deg);
+	transition: 0.5s;
+	transform: rotate(20deg);
 }
 
 .fa-lg {
@@ -346,7 +346,11 @@ body {
 	color: white;
 	background-color: #D44638;
 }
-
+.fa-telegram:hover {
+	border-radius: 50%;
+	color: white;
+	background-color: #0088cc;
+}
 
 /*---------- ICONS ENDS---------------*/
 
